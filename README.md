@@ -2,7 +2,7 @@
 
 ## TO DOs:
 
-- [ ] set up project and deploy
+- [x] set up project and deploy
 - [ ] add inputs https://codesandbox.io/s/024uom?file=/src/styles.css
 - [ ] add environment map
 - [ ] add blender models (cauldron, scroll, wand)

@@ -16,3 +16,18 @@ body,
 body {
 	background: #5ff788;
 }
+
+input {
+	font-family: "Inter", sans-serif;
+	width: 100px;
+	border: none;
+	background-image: none;
+	background-color: #a31ca3 transparent;
+	caret-color: #000;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	font-weight: 400;
+	/* caret-color: transparent; */
+	border-radius: 10px;
+	outline: 0;
+}

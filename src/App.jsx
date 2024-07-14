@@ -8,7 +8,7 @@ export default function App() {
 	return (
 		<>
 			{/* <div id='canvas-container'> */}
-			<Canvas>
+			<Canvas shadows camera={{ position: [1, 0.5, 10] }}>
 				<OrbitControls />
 				<ambientLight intensity={Math.PI / 2} />
 				<pointLight
