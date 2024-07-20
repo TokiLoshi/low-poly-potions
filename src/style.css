@@ -14,7 +14,7 @@ body,
 }
 
 body {
-	background: #5ff788;
+	background: #abd5b6;
 }
 
 input {
@@ -22,7 +22,7 @@ input {
 	width: 100px;
 	border: none;
 	background-image: none;
-	background-color: #a31ca3 transparent;
+	background-color: #f1d0f1;
 	caret-color: #000;
 	-webkit-box-shadow: none;
 	box-shadow: none;
